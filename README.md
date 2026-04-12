@@ -30,6 +30,11 @@ what_i_do:
   - 📡 Network Design & Simulation  (GNS3, Cisco, OSPF, EIGRP, RIP)
   - ☁️  Cloud Security & Infrastructure  (AWS)
   - 🛡️ CTI & Incident Response
+  - DevsecOps
+  - Digital Forensics
+  - AI web Scraping
+  - Machine Learning
+  - Deep Learning
 
 what_makes_me_different:
   - I break systems AND build them — rare combo of security + dev skills
