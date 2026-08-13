@@ -210,15 +210,20 @@ open_to:
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Noman56&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Noman56&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://img.shields.io/github/followers/Abdullah-Noman56?style=for-the-badge&logo=github&color=1F6FEB&labelColor=0D1117"/>
+  <img src="https://img.shields.io/github/stars/Abdullah-Noman56?style=for-the-badge&logo=github&color=E3B341&labelColor=0D1117"/>
+  <img src="https://komarev.com/ghpvc/?username=Abdullah-Noman56&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdullah-Noman56&theme=tokyonight&hide_border=true" width="60%"/>
+  <img src="https://streak-stats.vercel.app/?user=Abdullah-Noman56&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-Noman56&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
 
 ---
